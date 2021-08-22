@@ -8,4 +8,8 @@ edition = "2018"
 [dependencies]
 aoc-runner = "*"
 aoc-runner-derive = "*"
+regex = "1"
+fancy-regex = "0"
+
+# day 4
 md-5 = "0.9.1"
